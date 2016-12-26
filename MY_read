@@ -1,0 +1,3 @@
+Google Brain团队的一组研究人员发布了一个项目Project Magenta，其主要目标是利用机器学习创作艺术和谱写曲子。Project Magenta使用了 TensorFlow系统，研究人员在GitHub上开源了他们的模型和工具。
+研究人员称，机器生成的音乐已经存在了许多年，但它们在都缺乏长的叙事艺术。Project Magenta就试图将故事作为机器生成音乐的重要部分。Google公布了一个DEMO（MP3）表现Magenta项目的成果。
+More:https://www.oschina.net/p/magenta
